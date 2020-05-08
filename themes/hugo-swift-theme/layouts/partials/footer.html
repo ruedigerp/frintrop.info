@@ -1,6 +1,6 @@
 <footer class = 'footer'>
   <div class = 'footer_inner wrap pale'>
-    <p>&copy;&nbsp;<span class = 'year'></span>&nbsp;{{ .Site.Title }}. V:1.0.2
+    <p>&copy;&nbsp;<span class = 'year'></span>&nbsp;{{ .Site.Title }}. V: {{ .Site.Params.version }}
       {{ partial "social" }}
     {{ i18n "designed_by" .Site.Data.designer | safeHTML }}</p>
   </div>
