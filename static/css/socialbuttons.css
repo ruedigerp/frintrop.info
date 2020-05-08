@@ -20,6 +20,8 @@
 
 .txt-center {
   padding-right: 20px;
+  position: relative;
+  top: -50px;
 }
 
 /* Style the social media icons with color, if you want */
@@ -95,7 +97,7 @@
     z-index: 1;
     -webkit-user-select: none;
     user-select: none;
-    opacity: 0.9;
+    opacity: 1;
   }
 
   #menuToggle input
@@ -131,7 +133,7 @@
 
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
                 background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-                opacity 0.55s ease;
+                opacity 0.8s ease;
   }
   #menuToggle span:first-child
   {
@@ -161,9 +163,9 @@
   {
     position: absolute;
     width: 300px;
-    margin: -100px 0 0 -240px;
+    margin: -100px 0 0 -380px;
     padding: 50px;
-    padding-top: 125px;
+    padding-top: 85px;
     color: var(--light);
     background: var(--dark);
     list-style-type: none;
@@ -171,7 +173,7 @@
     transform-origin: 0% 0%;
     transform: translate(-200%, 0);
 
-    transition: transform 1s cubic-bezier(0.17,0.2,0.05,1.0);
+    transition: transform 1s cubic-bezier(0.17,1.7,0.05,1.0);
   }
   #menu li
   {
