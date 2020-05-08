@@ -53,29 +53,29 @@ Currently trying to get this blog running, still don't know what the blog will b
     name = "Startseite"
     weight = 100
     identifier = "blog"
-    url = "/blog"
+    url = "/"
 [[menu.main]]
-    name = "Vereine"
+    name = "Firmen"
     weight = 150
-    identifier = "vereine"
-    url = "/vereine"
-[[menu.main.vereine]]
-    name = "Fussball"
-    weight = 150
-    identifier = "vereinefussball"
-    url = "/vereine/fussball"
-# [[menu.main]]
-#     name = "About Me"
-#     identifier = "about"
-#     weight = 200
-#     url = "/"
+    identifier = "firmen"
+    url = "/firmen/"
+[[menu.main.firmen]]
+    name = "Gastronomie"
+    weight = 160
+    identifier = "gastronomie"
+    url = "/vereine/gastronomie"
+[[menu.main]]
+    name = "Über"
+    identifier = "ueber"
+    weight = 200
+    url = "/ueber-frintrop.info/"
 [[menu.main]]
     name = "Impressum"
     identifier = "imprint"
     weight = 200
-    url = "/static/imprint"
+    url = "/static/imprint/"
 [[menu.main]]
     name = "Datenschutz"
     identifier = "datenschutz"
     weight = 300
-    url = "/static/datenschutz"
+    url = "/static/datenschutz/"
