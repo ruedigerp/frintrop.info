@@ -1,0 +1,53 @@
+<section class="txt-center">
+
+    <!--
+    <a href="https://github.com/{{.}}"><i class="fab fa-github social-icon" aria-hidden="true"></i></a>
+
+    {{ with .Site.Params.social.linkedin }}
+    <a href="https://linkedin.com/in/{{.}}"><i class="fab fa-linkedin social-icon" aria-hidden="true"></i></a>
+    {{ end }}
+    {{ with .Site.Params.social.xing }}
+    <a href="https://www.xing.com/profile/{{.}}"><i class="fab fa-xing social-icon" aria-hidden="true"></i></a>
+    {{ end }}
+    {{ with .Site.Params.social.medium }}
+    <a href="https://www.medium.com/@{{.}}"><i class="fab fa-medium social-icon" aria-hidden="true"></i></a>
+    {{ end }}
+    -->
+    <a href="mailto:mail@frintrop.info"><i class="far fa-envelope social-icon" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/FrintropI"><i class="fab fa-twitter social-icon" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/Frintrop.info/"><i class="fab fa-facebook social-icon" aria-hidden="true"></i></a>
+    <a href="https://t.me/FrintropInfo/"><i class="fab fa-telegram social-icon" aria-hidden="true"></i></a>
+    <a href="https://www.instagram.com/frintrop.info/"><i class="fa fa-instagram social-icon" aria-hidden="true"></i></a>
+    <a href="/index.xml"><i class="fa fa-rss social-icon" aria-hidden="true"></i></a>
+    <!--
+    {{ with .Site.Params.social.instagram }}
+    <a href="https://www.instagram.com/{{.}}"><i class="fab fa-instagram social-icon" aria-hidden="true"></i></a>
+    {{ end }}
+    -->
+    <hr class="social-hr">
+</section>
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v6.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/de_DE/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="103830104634738"
+  logged_in_greeting="Hi! Wie kann ich helfen?"
+  logged_out_greeting="Hi! Wie kann ich helfen?">
+      </div>

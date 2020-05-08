@@ -1,0 +1,16 @@
+<header class = 'nav' >
+  <nav class = 'nav-menu'>
+    <a href='{{ absURL "" }}' class = 'nav-brand nav_item'>{{ .Site.Title }}</a>
+    <div class = 'nav_bar-wrap'>
+      Menü<div class = 'nav_bar'></div>
+    </div>
+  </nav>
+  <div style="float:right;">
+   {{- partial "social" . }}
+  </div>
+  <!--
+  <div style="float:right;">
+   {{- partial "social" . }}
+  </div>
+  -->
+</header>

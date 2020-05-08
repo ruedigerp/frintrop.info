@@ -1,0 +1,81 @@
+baseURL = "https://frintrop.info/"
+languageCode = "de-DE"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "de"
+# title = "Frintrop.info - Portal für Essen Frintrop, Bedingrade und Umgebung."
+title = "Frintrop.info"
+description ="Informationen, News, Vereine und Geschäfte in Frintrop."
+# theme = "mediumish-gohugo-theme"
+theme = "hugo-swift-theme"
+summaryLength = 25
+copyright = "Frintrop.info - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+# disableKinds = ["section"]
+
+# Define the number of posts per page
+paginate = 20
+
+[params]
+  logo = "/images/logo.png"
+  description ="Informationen, News, Vereine und Geschäfte in Frintrop."
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Rüdiger Küpper"
+  thumbnail = "/images/author.png"
+  description = "Creator of this site."
+
+[params.index]
+  picture = "/images/author.png"
+  title = "John Doe"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''
+Currently trying to get this blog running, still don't know what the blog will be about!\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  github = "<username>"
+  linkedin = "<username>"
+  xing = "<username>"
+  medium = "<username>"
+  twitter = "FrintropI"
+  instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Startseite"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Vereine"
+    weight = 150
+    identifier = "vereine"
+    url = "/vereine"
+[[menu.main.vereine]]
+    name = "Fussball"
+    weight = 150
+    identifier = "vereinefussball"
+    url = "/vereine/fussball"
+# [[menu.main]]
+#     name = "About Me"
+#     identifier = "about"
+#     weight = 200
+#     url = "/"
+[[menu.main]]
+    name = "Impressum"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
+[[menu.main]]
+    name = "Datenschutz"
+    identifier = "datenschutz"
+    weight = 300
+    url = "/static/datenschutz"

@@ -1,0 +1,24 @@
+{{- partial "intro" . }}
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+  {{ $pages = .Site.RegularPages }}
+{{ end }}
+{{ with .Site.Params.blogDir }}
+  {{ $pages = where $.Site.RegularPages "Section" . }}
+{{ end }}
+{{ if not .IsHome }}
+<ul class='posts wrap' id = 'posts'>
+{{- partial "categorylinks" . }}
+</ul>
+{{ end }}
+<ul class='posts wrap' id = 'posts'>
+  {{- range (.Paginate $pages).Pages }}
+    {{ partial "excerpt" . }}
+  {{- end }}
+</ul>
+{{ if not .IsHome }}
+<ul class='posts wrap' id = 'posts'>
+{{- partial "categorylinks" . }}
+</ul>
+{{ end }}
+{{- template "_internal/pagination.html" . }}

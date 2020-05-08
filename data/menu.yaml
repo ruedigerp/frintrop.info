@@ -1,0 +1,16 @@
+- item: Startseite
+  url: /
+- item: Firmen
+  url: "/firmen"
+- item: Über Frintrop.info
+  url: "/ueber-frintrop.info/"
+- item: Datenschutz
+  url: "/static/datenschutz"
+- item: Impressum
+  url: "/static/imprint"
+# - item: Category A
+#   url: categories/development/
+# - item: Category B
+#   url: categories/golang/
+# - item: Tag B
+#   url: tags/go/
