@@ -24,7 +24,7 @@ jobs:
 
     # - name: Golang Action
     #   uses: cedrickring/golang-action@1.5.2
-    
+
     - name: Action Hugo
       uses: kevvurs/action-hugo@v1.0-rc2
 
@@ -37,58 +37,4 @@ jobs:
         FOLDER: "./docs/*"
         SERVER_IP: frintrop.info # ${{ secrets.SERVER_IP }}
         USERNAME: frintropinfo # ${{ secrets.USERNAME }}
-        SERVER_DESTINATION: frintrop.info/dev/httpdocs/ # ${{ secrets.SERVER_DESTINATION }}
-
-    # - name: SFTP_UPLOAD_ACTION
-    #   uses: VFiee/sftp-upload-action@v1.0
-    #   with:
-    #     # Server login user name
-    #     user-name: rkuepper
-    #     # Server ip
-    #     server-ip: 23.97.162.126
-    #     # The private key for logging in to the server for authentication
-    #     ssh-private-key: ${{ secrets.SSH2 }}
-    #     # sftp running port
-    #     port: 22 
-    #     # The path of the file you want to copy
-    #     from-path: ./pubic/*
-    #     # The path of the file you want to paste on the server
-    #     to-path: /data/status.hmg.systems
-    #     # 
-    #     runs: # optional
-
-      # - name: SCP action wrapper
-      #   uses: lBeJIuk/scp_action@v1
-      #   with:
-      #     # Variable for public key
-      #     public_key: ${{secrets.SSH2}} 
-      #     # Variable for non standard ssh port
-      #     ssh_port: 22 # optional, default is 22
-      #     # 
-      #     ssh_username: 
-      #     # Variable for host for SSH connection
-      #     ssh_host: 23.97.162.126
-      #     # Variable for source for SCP
-      #     source: ./public/*
-      #     # Variable for target for SCP
-      #     target: /data/status.hmg.systems/
-      #     # Indicates whether to save the key for further work
-      #     keep_key: # optional
-
-    # Runs a single command using the runners shell
-    # - name: Run a one-line script
-    #   run: echo Hello, world!
-    # - name: Hugo-Site
-    #   uses: chabad360/hugo-actions@1.0.0
-    #   with:
-    #     # The path to build the site to
-    #     buildPath: # optional, default is ./public
-    #     # Arguments to pass to Hugo
-    #     args: # optional, default is ["--gc", "--minify", "--cleanDestinationDir"]
-    #     # The version of Hugo to use
-    #     hugoVersion: # optional
-    # Runs a set of commands using the runners shell
-    # - name: Run a multi-line script
-    #   run: |
-    #     echo Add other actions to build,
-    #     echo test, and deploy your project.
+        SERVER_DESTINATION: frintrop.info/httpdocs/ # ${{ secrets.SERVER_DESTINATION }}
