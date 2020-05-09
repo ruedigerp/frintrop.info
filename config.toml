@@ -20,7 +20,7 @@ publishDir = "docs"
 paginate = 20
 
 [params]
-  logo = "/images/logo.png"
+  logo = "https://images.frintrop.info/images/logo.png"
   description ="Informationen, News, Vereine und Geschäfte in Frintrop."
   #mailchimp = "you can provide a mailchimp-link here"
   version = "1.0.5"
