@@ -19,14 +19,14 @@ publishDir = "docs"
 # Define the number of posts per page
 paginate = 20
 
-version = "1.0.4"
+version = "1.0.5"
 
 [params]
   logo = "/images/logo.png"
   description ="Informationen, News, Vereine und Geschäfte in Frintrop."
   #mailchimp = "you can provide a mailchimp-link here"
-  version = "1.0.4"
-  
+
+
 [params.author]
   name = "Rüdiger Küpper"
   thumbnail = "/images/author.png"
