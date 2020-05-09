@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Im Wulve Gaststätte und Restaurant](/images/companies/im-wulve-gaststaette-und-restaurant.png)
+![Im Wulve Gaststätte und Restaurant](https://images.frintrop.info/images/companies/im-wulve-gaststaette-und-restaurant.png)
 
 ### Kontaktdaten auf einem Blick
 

@@ -2,7 +2,7 @@
 title = "Gaststätte Turmstübchen"
 url = "/firmen/gastronomie/gaststaette-turmstuebchen/"
 date = "2020-01-19"
-image = '5.jpg'
+image = 'blog/5.jpg'
 id = "talschaencke"
 type = "misc"
 categories = "Gastronomie"

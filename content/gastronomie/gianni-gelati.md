@@ -10,7 +10,7 @@ catlink = "/firmen/gastronomie/"
 draft = "true"
 +++
 
-![Gianni Gelati - Eiscafe](/images/companies/gianni-gelati.png)
+![Gianni Gelati - Eiscafe](https://images.frintrop.info/images/companies/gianni-gelati.png)
 
 ### Kontaktdaten auf einem Blick
 

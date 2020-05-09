@@ -11,7 +11,7 @@ catlink = "/firmen/gastronomie/"
 
 ### Kontaktdaten auf einem Blick
 
-![Asia Lu](/images/companies/asia-lu.png)
+![Asia Lu](https://images.frintrop.info/images/companies/asia-lu.png)
 
 Asia Lu
 

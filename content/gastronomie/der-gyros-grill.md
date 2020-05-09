@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Griechisches Restaurant Kalypso](/images/companies/der-gyros-grill.jpg)
+![Der Gyros Grill](https://images.frintrop.info/images/companies/der-gyros-grill.jpg)
 
 ### Kontaktdaten auf einem Blick
 

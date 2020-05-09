@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Griechisches Restaurant Kalypso](/images/companies/griechisches-restaurant-kalypso.jpg)
+![Griechisches Restaurant Kalypso](https://images.frintrop.info/images/companies/griechisches-restaurant-kalypso.jpg)
 ### Kontaktdaten auf einem Blick
 
 Griechisches Restaurant Kalypso

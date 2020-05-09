@@ -5,9 +5,9 @@
   {{- $scratch.Set "image" "thumbnail.svg" }}
 {{- end }}
 {{- $image := $scratch.Get "image" }}
-{{- $bg := (path.Join "images" $image | absLangURL) }}
+{{- $bg := (path.Join "images" $image | relLangURL) }}
 <li class = 'post_item'>
-  <a class = 'post_card' href='{{ .RelPermalink }}' title = '{{ .Title }}' style = 'background-image: url({{ $bg }});'>
+  <a class = 'post_card' href='{{ .RelPermalink }}' title = '{{ .Title }}' style = 'background-image: url(https://images.frintrop.info/{{ $bg }});'>
   </a>
   <div class = 'excerpt'>
     <div class = 'excerpt_meta'>

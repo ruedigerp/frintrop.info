@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![RISTORANTE „IL VIALE”](/images/companies/restaurant-kashmir-india.png)
+![Restaurant Kashmir India](https://images.frintrop.info/images/companies/restaurant-kashmir-india.png)
 
 ### Kontaktdaten auf einem Blick
 

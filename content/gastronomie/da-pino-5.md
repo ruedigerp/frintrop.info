@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Talschänke](/images/companies/da-pino-5.png)
+![Da Pino5](https://images.frintrop.info/images/companies/da-pino-5.png)
 
 ### Kontaktdaten auf einem Blick
 

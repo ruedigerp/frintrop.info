@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Pizzeria Ristorante La Terrazza](/images/companies/pizzeria-ristorante-la-terrazza.png)
+![Pizzeria Ristorante La Terrazza](https://images.frintrop.info/images/companies/pizzeria-ristorante-la-terrazza.png)
 
 ### Kontaktdaten auf einem Blick
 

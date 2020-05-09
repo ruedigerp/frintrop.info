@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![T & T Eiscafe](/images/companies/tut-eiscafe.png)
+![T & T Eiscafe](https://images.frintrop.info/images/companies/tut-eiscafe.png)
 
 ### Kontaktdaten auf einem Blick
 
