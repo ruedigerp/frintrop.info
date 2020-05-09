@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![RISTORANTE „IL VIALE”](/images/companies/ristorante-il-viale.png)
+![RISTORANTE „IL VIALE”](https://images.frintrop.info/images/companies/ristorante-il-viale.png)
 
 ### Kontaktdaten auf einem Blick
 

@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Latte+Co](/images/companies/latteundco.jpg)
+![Latte+Co](https://images.frintrop.info/images/companies/latteundco.jpg)
 
 ### Kontaktdaten auf einem Blick
 

@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Frintroper Kebaphaus](/images/companies/frintroper-kebaphaus.png)
+![Frintroper Kebaphaus](https://images.frintrop.info/images/companies/frintroper-kebaphaus.png)
 
 ### Kontaktdaten auf einem Blick
 

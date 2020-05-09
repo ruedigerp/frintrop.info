@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Im Wulve Gaststätte und Restaurant](/images/companies/restaurant-grosse-segerath.jpg)
+![Restaurant Große Segerath](https://images.frintrop.info/images/companies/restaurant-grosse-segerath.jpg)
 
 ### Kontaktdaten auf einem Blick:
 

@@ -2,7 +2,7 @@
 title = "Elit 2 Döner & Pizza"
 url = "/firmen/gastronomie/elit-2-doener-pizza/"
 date = "2020-01-19"
-image = '5.jpg'
+image = 'blog/5.jpg'
 id = "elit-2-doener-pizza"
 type = "misc"
 categories = "Gastronomie"

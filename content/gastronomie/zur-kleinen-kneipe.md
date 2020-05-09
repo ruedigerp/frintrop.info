@@ -2,7 +2,7 @@
 title = "Zur kleinen Kneipe"
 url = "/firmen/gastronomie/zur-kleinen-kneipe/"
 date = "2020-01-19"
-image = '5.jpg'
+image = 'blog/5.jpg'
 id = "zur-kleinen-kneipe"
 type = "misc"
 categories = "Gastronomie"

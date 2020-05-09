@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Kastra Imbiss](/images/companies/kastra-imbiss.png)
+![Kastra Imbiss](https://images.frintrop.info/images/companies/kastra-imbiss.png)
 
 ### Kontaktdaten auf einem Blick
 

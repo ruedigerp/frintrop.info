@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Stammhaus Troja](/images/2020/04/18/stammhaus-troja.jpg)
+![Stammhaus Troja](https://images.frintrop.info/images/2020/04/18/stammhaus-troja.jpg)
 
 ### Kontaktdaten auf einem Blick
 

@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Zum scharpen Eck](/images/companies/zum-scharpen-eck.jpg)
+![Zum scharpen Eck](https://images.frintrop.info/images/companies/zum-scharpen-eck.jpg)
 
 
 ### Kontaktdaten auf einem Blick

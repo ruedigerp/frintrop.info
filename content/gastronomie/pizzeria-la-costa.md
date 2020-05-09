@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Pizzeria La Costa](/images/companies/pizzeria-la-costa.png)
+![Pizzeria La Costa](https://images.frintrop.info/images/companies/pizzeria-la-costa.png)
 
 ### Kontaktdaten auf einem Blick
 

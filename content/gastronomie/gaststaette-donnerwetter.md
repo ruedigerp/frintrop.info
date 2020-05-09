@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Gaststätte Donnerwetter](/images/companies/donnerwetter.jpg)
+![Gaststätte Donnerwetter](https://images.frintrop.info/images/companies/donnerwetter.jpg)
 
 ### Kontaktdaten auf einem Blick
 

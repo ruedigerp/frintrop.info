@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Talschänke](/images/companies/liebling-im-muehlenbach.jpg)
+![Talschänke](https://images.frintrop.info/images/companies/liebling-im-muehlenbach.jpg)
 
 ### Kontaktdaten auf einem Blick
 

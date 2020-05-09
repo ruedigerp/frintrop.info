@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![SchlemmWerk](/images/companies/schlemmwerk.jpg)
+![SchlemmWerk](https://images.frintrop.info/images/companies/schlemmwerk.jpg)
 
 ### Kontaktdaten auf einem Blick
 

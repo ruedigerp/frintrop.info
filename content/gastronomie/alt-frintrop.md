@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Alt Frintrop](/images/companies/alt-frintrop.jpg)
+![Alt Frintrop](https://images.frintrop.info/images/companies/alt-frintrop.jpg)
 
 ### Kontaktdaten auf einem Blick
 

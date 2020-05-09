@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Il Camino](/images/companies/pizzeria-il-camino.png)
+![Il Camino](https://images.frintrop.info/images/companies/pizzeria-il-camino.png)
 
 ### Kontaktdaten auf einem Blick
 

@@ -43,11 +43,11 @@ bitte erscheinen Sie pünktlich zum vereinbarten Termin ...
 
 ### Stöckmann`s Restaurant in Essen-Frintrop
 
-![Stöckmann`s Restaurant](/images/galleries/companies/stoeckmanns-restaurant/fabian.jpg)
+![Stöckmann`s Restaurant](https://images.frintrop.info/images/galleries/companies/stoeckmanns-restaurant/fabian.jpg)
 
 Essen im November 2019
 
-Zwischen den Stadtteilen Frintrop und Bedingrade gelegen, findet sich seit dem Jahre 1885 „Stöckmann`Restaurant“. Das in 5. Generation betriebene Gastro-Unternehmen überstand zwei Weltkriege und gehört zu den ältesten, durchgängig familiengeführten Restaurants in NRW! Mit bis zu 140 Sitzplätzen, inklusive einer Gartenterrasse schon flächenmäßig ein Ort für Großschaffendes.
+Zwischen den Stadtteilen Frintrop und Bedingrade gelegen, findet sich seit dem Jahre 1885 „Stöckmann`s Restaurant“. Das in 5. Generation betriebene Gastro-Unternehmen überstand zwei Weltkriege und gehört zu den ältesten, durchgängig familiengeführten Restaurants in NRW! Mit bis zu 140 Sitzplätzen, inklusive einer Gartenterrasse schon flächenmäßig ein Ort für Großschaffendes.
 
 Das Restaurant hat mittwochs-sonntags abends täglich ab 17:30 Uhr & zusätzlich sonntags ab 12 Uhr zum traditionellen Mittagstisch (Lunch) geöffnet. Das Logo „der Baum“ steht für ein gewachsenes, weitergetragenes Haus mit Bezug zu Tradition und Innovation. In klassischer, gemütlicher Atmosphäre servieren Küchenchef Fabian Stöckmann und sein Team deutsch, asiatisch inspirierte Speisen, die eigenständig und teils verwobt miteinander anmuten. Der Fokus liegt auf bekannte und neuentdeckte Lebensmittel und lässt sich auch durch die veränderten Jahreszeiten stets inspirieren.
 

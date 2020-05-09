@@ -9,7 +9,7 @@ categories = "Gastronomie"
 catlink = "/firmen/gastronomie/"
 +++
 
-![Restaurant Dorfwirtschaft](/images/companies/dorfwirtschaft-restaurant-kueche.jpg)
+![Restaurant Dorfwirtschaft](https://images.frintrop.info/images/companies/dorfwirtschaft-restaurant-kueche.jpg)
 
 ### Kontaktdaten auf einem Blick
 
