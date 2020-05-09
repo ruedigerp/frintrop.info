@@ -6,7 +6,7 @@
 {{- $title := .Title }}
 {{- $params := .Site.Params }}
 {{- $permalink := .Permalink }}
-{{- $logo := absURL (printf "images/%s" $params.logo) }}
+{{- $logo := absURL (printf "%s" $params.logo) }}
 {{- $image := absURL (printf "images/%s" $params.image) }}
 {{- $author := $params.author }}
 {{- with .Params.author }}
@@ -25,12 +25,12 @@
 <meta name="description" content="{{ $summary }}">
 <meta property = 'og:description' content = '{{ $summary }}'>
 <meta property = 'og:url' content = '{{ $permalink }}' />
-<meta property = 'og:image' content = '{{ $image }}'/>
+<meta property = 'og:image' content = 'https://images.frintrop.info{{ $image | relLangURL }}'/>
 <meta name = 'twitter:card' content = 'summary_large_image' />
 <meta name = 'twitter:creator' content = '{{ $params.twitter }}'>
 <meta name = 'twitter:title' content = '{{ .Title }}' />
 <meta property = 'twitter:description'  content = '{{ $summary }}'/>
-<meta name = 'twitter:image' content = '{{ $image }}' />
+<meta name = 'twitter:image' content = 'https://images.frintrop.info{{ $image | relLangURL }}' />
 {{- if eq .Section "blog" -}}
   {{- $date := ( .Date.Format "2006-02-01") -}}
   {{- $date := (time .Date) }}
@@ -52,13 +52,13 @@
       },
       "image":{
         "@type":"ImageObject",
-        "url": "{{ $image }}"
+        "url": "https://images.frintrop.info{{ $image | relLangURL }}"
       },
       "publisher": {
         "@type": "Organization",
         "logo": {
           "@type":"ImageObject",
-          "url": "{{ $logo }}"
+          "url": "https://images.frintrop.info{{ $image | relLangURL }}"
         },
         "name": "{{ $site }}"
       }
