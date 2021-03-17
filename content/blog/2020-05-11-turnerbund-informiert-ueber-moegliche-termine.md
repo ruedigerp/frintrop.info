@@ -1,8 +1,8 @@
 ---
-title: "Turnerbund Frintrop Vereinszeitung Turnschuh ist online"
+title: "Update zum Sportbetrieb im Turnerbund Frintrop"
 date: 2020-05-11T12:27:00+02:00
 publishdate: 2020-05-11T12:27:00+02:00
-image: "/2020/05/09/turnschuh.jpg"
+image: "/2020/05/09/turnerbund.png"
 tags: ["Turnerbund","Turnerbund Frintrop","Essen","Frintrop"]
 comments: false
 draft: false
