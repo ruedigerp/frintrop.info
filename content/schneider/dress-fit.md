@@ -19,9 +19,9 @@ Himmelpforten 1
 
 45359 Essen
 
-Telefon: [+49 163 233 91 51](tel:+491632339151)
+Telefon: [+49 176 41 887 157](tel:+4917641887157)
 
-E-Mail: [dressfit@frintrop.info](mailto:dressfit@frintrop.info)
+E-Mail: [nazli.yilmaz2845@gmail.com](mailto:nazli.yilmaz2845@gmail.com)
 
 ### Öffnungzeiten
 
